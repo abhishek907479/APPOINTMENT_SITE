@@ -40,24 +40,6 @@ For Hardware:
 
 ### Implementation
 
-# Installation commands here
-### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
 # Run
 [commands]
 
