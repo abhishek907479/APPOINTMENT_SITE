@@ -1,27 +1,46 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# Medical HelpSite 🎯
 
+---
 
 ## Basic Details
-### Team Name: [Name]
-
+### Team Name: TinkerHub Pioneers
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Abhishek.P - College of Engineering, Trivandrum
+- Member 2: Neeradh.S - College of Engineering, Trivandrum
+- Member 3: Pridhu Raj - College of Engineering, Trivandrum
 
 ### Project Description
-[2-3 lines about what your project does]
+A medical help site that allows people to book appointments with doctors in Kerala and get a preliminary idea about their medical condition based on symptoms.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Booking appointments through a telephone call is limiting and inconvenient.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+A web-based platform that gives users an idea of potential medical conditions and allows them to book appointments online.
+
+---
 
 ## Technical Details
+
+### Technologies/Components Used
+
+For Software:
+- **Languages used**: HTML, CSS, JavaScript
+- **Frameworks used**: N/A
+- **Libraries used**: N/A
+- **Tools used**: ChatGPT
+
+For Hardware:
+- [List main components]
+- [List specifications]
+- [List tools required]
+
+### Implementation
+
+# Installation commands here
 ### Technologies/Components Used
 For Software:
 - [Languages used]
