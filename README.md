@@ -88,9 +88,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [ABHISHEK P]: [html,css]
+- [NEERADH S]: [js]
+- [PRIDHU]: [UI/UX]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
